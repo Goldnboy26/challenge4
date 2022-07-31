@@ -208,11 +208,6 @@ function queCounter(index){
     bottom_ques_counter.innerHTML = totalQueCounTag;  //adding new span tag inside bottom_ques_counter
 }
 
-submit_initials.onclick = () => {
-
-
-}
-
 function processInput(event) {
     event.preventDefault();
   
